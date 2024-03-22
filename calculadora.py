@@ -16,17 +16,17 @@ while(opcao!=0):
         n1 = int(input('Digite um número para subtrair: '))
         n2 = int(input('Digite outro número para subtrair: '))
         sub = n1-n2
-        print('O resultado da soma é igual a {}'.format(sub))
+        print('O resultado da subtração é igual a {}'.format(sub))
 
     elif opcao==3:
         n1 = int(input('Digite um número para dividir: '))
         n2 = int(input('Digite outro número para dividir: '))
         div = n1/n2
-        print('O resultado da soma é igual a {}'.format(div))
+        print('O resultado da divisão é igual a {}'.format(div))
 
     elif opcao==4:
         n1 = int(input('Digite um número para multiplicar: '))
         n2 = int(input('Digite outro número para multiplicar: '))
         mult = n1*n2
-        print('O resultado da soma é igual a {}'.format(mult))
+        print('O resultado da multiplicação é igual a {}'.format(mult))
     print('\n')
