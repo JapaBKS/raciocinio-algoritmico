@@ -1,3 +1,5 @@
+#Faça um programa que converta metros para centímetros.
+
 cm = float(input('Digite um valor em cm para convertê-lo para metros: '))
 
 metros = cm/100
