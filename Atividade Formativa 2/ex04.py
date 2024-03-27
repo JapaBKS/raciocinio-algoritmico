@@ -1,4 +1,5 @@
-#Escreva um programa que solicite ao usuário os três lados de um triângulo e determine se ele é equilátero, isósceles ou escaleno.
+#Escreva um programa que solicite ao usuário os três lados de um triângulo e determine se ele é 
+#equilátero, isósceles ou escaleno.
 
 l1 = float(input('Digite o primeiro lado do triângulo: '))
 l2 = float(input('Digite o segundo lado do triângulo: '))

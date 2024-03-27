@@ -1,4 +1,5 @@
-#Escreva um programa que solicite ao usuário uma letra e determine se ela é uma vogal ou uma consoante. (Será necessário usar o operador OU / OR, rever o material de Introdução ao Python – Operadores Lógicos).
+#Escreva um programa que solicite ao usuário uma letra e determine se ela é uma vogal ou uma consoante. 
+#(Será necessário usar o operador OU / OR, rever o material de Introdução ao Python – Operadores Lógicos).
 
 letra = input('Digite uma letra: ')
 letra = letra.upper()
