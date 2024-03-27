@@ -11,7 +11,7 @@ elif salario > 2826.65 and salario <= 3751.05:
     parcela = 381.44 + (salario-2826.65)*0.15
 elif salario > 3751.05 and salario <= 4664.68:
     aliquota = 22.5
-    parcela = 662.77 + (salario-3751.05)*0.15
+    parcela = 662.77 + (salario-3751.05)*0.225
 else:
     aliquota = 27.5
     parcela = 896 + (salario-4664.68)*0.275
