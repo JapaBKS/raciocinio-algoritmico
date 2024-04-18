@@ -5,6 +5,7 @@ for i in range(2, n):
     if n%i == 0:
         eh_primo = 0
         break
+    
 if eh_primo:
     print(f'O número {n} é primo!')
 else:
