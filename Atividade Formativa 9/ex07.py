@@ -1,4 +1,5 @@
 def somaImposto(taxaImposto, custo):
+    '''Calcula o imposto(%) sobre o custo(R$)'''
     custo = custo + custo*(taxaImposto/100)
     return custo
 

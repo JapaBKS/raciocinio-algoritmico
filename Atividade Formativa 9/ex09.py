@@ -1,4 +1,5 @@
 def piramide_diferentes(n):
+    '''Concatena cada valor sem repetir'''
     for i in range(1, n + 1):
         linha = ""
         for i in range(1, i+1):
