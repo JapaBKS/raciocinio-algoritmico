@@ -1,0 +1,60 @@
+Categoria: Bebidas
+  Subcategoria: Refrigerantes
+    Produto: Coca-Cola, Preço: R$6.00
+    Produto: Pepsi, Preço: R$6.00
+    Produto: Guaraná Jesus, Preço: R$6.00
+    Produto: Fanta Uva, Preço: R$6.00
+  Subcategoria: Alcoólicos
+    Produto: Vinho, Preço: R$60.00
+    Produto: Whiskey, Preço: R$35.00
+    Produto: Gin Tônica, Preço: R$35.00
+    Produto: Drinks, Preço: R$30.00
+  Subcategoria: Sucos
+    Produto: Abacaxi, Preço: R$15.00
+    Produto: Maracujá, Preço: R$15.00
+    Produto: Limão, Preço: R$15.00
+    Produto: Laranja, Preço: R$15.00
+    Produto: Manga, Preço: R$15.00
+  Subcategoria: Quentes
+    Produto: Expresso, Preço: R$5.00
+    Produto: Capuccino, Preço: R$10.00
+    Produto: Mocaccino, Preço: R$12.00
+    Produto: Café com Leite, Preço: R$7.00
+    Produto: Achocolatado, Preço: R$10.00
+    Produto: Chá, Preço: R$7.00
+
+Categoria: Entradas
+  Subcategoria: Vegetarianas
+    Produto: Salada, Preço: R$30.00
+    Produto: Batatas Fritas, Preço: R$30.00
+    Produto: Polenta, Preço: R$25.00
+  Subcategoria: Com derivados de animais
+    Produto: Carpaccio, Preço: R$50.00
+    Produto: Creme de Aipim com Bacon, Preço: R$35.00
+    Produto: Iscas de Peixe, Preço: R$40.00
+    Produto: Carne de Onça, Preço: R$35.00
+
+Categoria: Pratos Principais
+  Subcategoria: Vegetarianas
+    Produto: Macarrão Alho e Óleo, Preço: R$45.00
+    Produto: Ratatouille, Preço: R$60.00
+    Produto: Macarrão ao Molho 4 Queijos, Preço: R$45.00
+    Produto: Lasanha com Carne de Soja, Preço: R$50.00
+  Subcategoria: Com derivados de animais
+    Produto: Carré de Cordeiro, Preço: R$85.00
+    Produto: Bife à Parmegiana, Preço: R$65.00
+    Produto: Estrogonofe, Preço: R$45.00
+    Produto: Costelinha Barbecue, Preço: R$70.00
+
+Categoria: Sobremesas
+  Subcategoria: Com Lactose
+    Produto: Petit Gâteau, Preço: R$28.00
+    Produto: Pudim, Preço: R$22.00
+    Produto: Banana Split, Preço: R$25.00
+    Produto: Torta de Limão, Preço: R$15.00
+  Subcategoria: Sem Lactose
+    Produto: Gelatina, Preço: R$10.00
+    Produto: Salada de Frutas, Preço: R$25.00
+    Produto: Crumble de Maçã, Preço: R$35.00
+    Produto: Brigadeiro Vegano, Preço: R$15.00
+
